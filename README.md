@@ -2,10 +2,10 @@
 3D FPS game.
 Can you survive the waves of zombies attack?
 
-<!-- #### Play --> 
-<!-- <ul>
+#### Play
+<ul>
   <li><strong><a href="https://rachaelawuy.github.io/ZombiesAssault/index.html" target="_blank" rel="noopener noreferrer">PLAY(WEB)</a></strong></li>
-</ul> --> 
+</ul>
 
 <!-- #### Controls
 Drag the circle and adjust the angle to launch the bird --> 
