@@ -1,7 +1,7 @@
 # ZombiesAssault
-3D First Person Shooter game. <br />
+3D First Person Shooter game for PC. <br />
 Can you survive the waves of zombies attack?
-* Please note that due to a known Unity issue, mouse sensitivity on WebGL is much higher to the actual game.
+* Please note that due to a known Unity issue, mouse sensitivity on WebGL is much higher than the actual game.
 
 <p align="center">
 <img src="/ZombiesAssault/Zombies Assault Menu.jpg" height=360px />
