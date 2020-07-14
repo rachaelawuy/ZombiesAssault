@@ -13,6 +13,7 @@ Can you survive the waves of zombies attack?
 <ul>
   <li><strong><a href="https://rachaelawuy.github.io/ZombiesAssault/index.html" target="_blank" rel="noopener noreferrer">PLAY(WEB)</a></strong></li>
 </ul>
+Supported browser: Google Chrome, Mozilla Firefox
 
 <!-- #### Controls
 Drag the circle and adjust the angle to launch the bird --> 
