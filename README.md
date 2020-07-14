@@ -1,6 +1,12 @@
 # ZombiesAssault
-3D FPS game.
+3D First Person Shooter game.
 Can you survive the waves of zombies attack?
+
+<p align="center">
+<img src="/ZombiesAssault/Zombies Assault Menu.jpg" height=240px />
+<img src="/ZombiesAssault/Zombies Assault gameplay.gif" height=240px />
+<img src="/ZombiesAssault/Game Over.jpg" height=240px />
+</p>
 
 #### Play
 <ul>
