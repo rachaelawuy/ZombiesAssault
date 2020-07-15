@@ -27,7 +27,7 @@ Drag the circle and adjust the angle to launch the bird -->
 <ul>
   <li>Unity(C#)</li>
   <li>Visual Studio</li>
-  <li>GitHub</li>
+  <li>GitHub Desktop</li>
 </ul>
 
 #### Credits
