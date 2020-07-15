@@ -29,3 +29,16 @@ Drag the circle and adjust the angle to launch the bird -->
   <li>Visual Studio</li>
   <li>GitHub</li>
 </ul>
+
+#### Credits
+<ul>
+  <li>LowPoly Environment Pack by k0rveen</li>
+  <li>Low Poly FPS Pack - Free (Sample) by David Stenfors</li>
+  <li>Zcharacter by ESsplashkid</li>
+  <li>Creature Titan by Maksim Bugrimov</li>
+  <li>Dark Future Music by Daniel Gooding</li>
+  <li>Zombie Sound Pack - Free Version by Catastic</li>
+  <li>Free Night Sky by qianyuez</li>
+  <li>Free Casual SoundFX Pack by Tim Beek</li>
+  <li>Ultimate 10+ Shaders by The Developer</li>
+</ul>
